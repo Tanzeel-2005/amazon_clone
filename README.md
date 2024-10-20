@@ -1,7 +1,7 @@
 # amazon_clone
 Amazon Clone built using HTML and CSS. This project replicates the front-end design of Amazon's homepage, focusing on design elements.
 
-# Images used
+# Images_used
 ![hero_img](https://github.com/user-attachments/assets/4b4bcd9c-3831-468a-8ee7-740cd4f86f0c)
 ![hero_image](https://github.com/user-attachments/assets/af86c619-2310-4b55-94a5-dc88d8099db8)
 ![headset_img](https://github.com/user-attachments/assets/3cfa6ede-bd76-4e27-90de-f581c512b63a)
